@@ -34,3 +34,4 @@ public class StudentManagementApplication {
 		return coursesRepository.search();
 	}
 }
+//test
